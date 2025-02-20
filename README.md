@@ -140,7 +140,7 @@ En algunas ocasiones nos podemos encontrar que en él figura información que no
 > ![](images/cveRecord1.png)
 
 
-## ENTREGA
+## [ENTREGA](Entrega.md)
 > __Realiza el trazado de la vulnerabilidad de la que informa [este artículo](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)__
 
 >__Crea un repositorio  con nombre PPS-Unidad2Actividad1-Tu-Nombre donde desarrolles dicho trazado.__
