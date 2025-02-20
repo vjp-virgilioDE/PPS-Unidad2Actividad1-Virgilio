@@ -21,6 +21,10 @@ Para realizar este trazado, se han consultado diversas fuentes oficiales que pro
 
 ![](Imagenes2/imagen3.png)
 
+![](Imagenes2/imagen7.png)
+
+Podemos descargarla o acceder a su información, desde la página de cve.org dándole al enlace [View JSON](CVE-2024-0204.json)
+
 ### 2.2. NVD - National Vulnerability Database
 
 - **Enlace**: [CVE-2023-2024 en NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-0204)
@@ -31,7 +35,7 @@ Para realizar este trazado, se han consultado diversas fuentes oficiales que pro
 
 ### 2.3. CWE - Common Weakness Enumeration
 
-- **CWE ID**: [CWE-287: Improper Authentication](https://cwe.mitre.org/data/definitions/425.html)
+- **CWE ID**: [CWE-425: Improper Authentication](https://cwe.mitre.org/data/definitions/425.html)
 - **Descripción**: Esta vulnerabilidad se asocia con la debilidad de autenticación incorrecta, lo que permite a un atacante acceder a un sistema sin los mecanismos adecuados de verificación de identidad.
 
 ![](Imagenes2/imagen4.png)
@@ -42,7 +46,7 @@ Vemos los posibles patrones de ataque relacionados
 
 ### 2.4. CAPEC - Common Attack Pattern Enumeration and Classification
 
-- **Enlace**: [CAPEC-137: Missing Authentication for Critical Function](https://capec.mitre.org/data/definitions/87.html)
+- **Enlace**: [CAPEC-87: Missing Authentication for Critical Function](https://capec.mitre.org/data/definitions/87.html)
 - **Descripción**: El patrón de ataque relacionado, sobre
 
 ![](Imagenes2/imagen6.png)
