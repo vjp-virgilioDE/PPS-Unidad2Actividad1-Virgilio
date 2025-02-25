@@ -47,6 +47,6 @@ Vemos los posibles patrones de ataque relacionados
 ### 2.4. CAPEC - Common Attack Pattern Enumeration and Classification
 
 - **Enlace**: [CAPEC-87: Missing Authentication for Critical Function](https://capec.mitre.org/data/definitions/87.html)
-- **Descripción**: El patrón de ataque relacionado, sobre
+- **Descripción**: El patrón de ataque relacionado, sobre la vulnerabilidad.
 
 ![](Imagenes2/imagen6.png)
